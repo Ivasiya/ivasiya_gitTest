@@ -6,7 +6,12 @@
 </head>
 <body>
 <h1>
+<<<<<<< HEAD
 	Git Test!!!
+=======
+	Hello world!
+	git test  
+>>>>>>> refs/remotes/origin/master
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>

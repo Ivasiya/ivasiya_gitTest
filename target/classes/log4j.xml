@@ -11,7 +11,11 @@
 	</appender>
 	
 	<!-- Application Loggers -->
+<<<<<<< HEAD
 	<logger name="com.myspring.git">
+=======
+	<logger name="com.co.kr">
+>>>>>>> refs/remotes/origin/master
 		<level value="info" />
 	</logger>
 	
